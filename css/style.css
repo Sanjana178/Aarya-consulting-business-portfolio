@@ -1592,6 +1592,6 @@ body.is-loading #banner:after {
 
 @media only screen and (max-width: 480px) {
   .mobile-image-fit {
-    width: 350px;
+    width: 300px;
   }
 }
